@@ -1,0 +1,20 @@
+{
+  "terms": {
+    "999999": "All Terms"
+  },
+  "subjects": {
+    "": "Any Subject"
+  },
+  "courseTypes": {
+    "": "Any Level",
+    "coursetype_01": "Undergraduate",
+    "coursetype_UGL": "Undergraduate - Lower Division",
+    "coursetype_UGU": "Undergraduate - Upper Division",
+    "coursetype_02": "Graduate",
+    "coursetype_05": "Professional",
+    "coursetype_NC": "Non Credit"
+  },
+  "campuses": {
+    "": "Any Campus"
+  }
+}
